@@ -1,4 +1,5 @@
 # Proyecto_Ajuste_Curvas
+Autores: Rodrigo Rosado, Susana Gómez
 Proyecto de ajuste de curvas utilizando script de repetición de palabras clave de Google Scholar en Python.
 
 El script utilizado para determinar el número de repeticiones de la palabra clave ("nanotechnology") fue creado por Volker Strobel y se cita al final del README. 
